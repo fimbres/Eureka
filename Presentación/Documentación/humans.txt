@@ -1,0 +1,16 @@
+/* TEAM */
+Creator: Isaac Fimbres.
+Site: isaacfimbresa23@gmail.com.
+Location: Ensenada, México.
+						
+/* THANKS */
+		
+Author: Isaac Fimbres.
+Teacher: Victor Mejía.
+                           
+/* SITE */
+                       
+Last update: 2021/05/24.
+Standards: HTML5, CSS3, JavaScript, SQL, ASPX, .NET Framework, DataBases, C#.
+Components: jQuery, .NET Framework and others.
+Software: Visual Studio, Photoshop, Microsoft Edge, Illustrator, Azure Cloud.
